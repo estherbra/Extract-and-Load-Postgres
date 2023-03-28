@@ -1,4 +1,4 @@
-# Desafio de engenharia de dados da Refera
+# Extract and Load from PostgreSQL to PostgreSQL
 
 Com o objetivo de evitar a sobrecarga no banco de dados `Transactional`, é necessária a criação de um novo ambiente para a execução das análises. Portanto, foi criado um segundo banco de dados (`Analytics`) com uma cópia das tabelas do banco de origem.
 
